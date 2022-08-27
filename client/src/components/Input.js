@@ -27,7 +27,7 @@ export default function FormPropsTextFields() {
         <div class="card__owner"><h2>Address :</h2></div>
           <div class="card__owner"><p className="small">{address}</p></div>
           <div class="card__owner flex">
-            <h4>$</h4>
+            <h4>Balance:</h4>
             <input
               className="in"
               value={balance}
