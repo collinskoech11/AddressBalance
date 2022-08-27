@@ -30,4 +30,4 @@ const getBalance = async(Address) => {
     }
 }
 // getBalance("0xad02e683a43F1Dee052301C6D78436e0eF15122E")
-module.exports = getBalance;
+export default getBalance;
