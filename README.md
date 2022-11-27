@@ -1,9 +1,3 @@
-# Web3-Full-Stack-Hiring
-
-Hello! If you're reading this, you applied to a Full Stack Engineering role at Syndicate. This is Syndicate's hiring test for Full Stack engineers. (Note: If you have not applied but stumbled across this repository somehow, you are welcome to check out our [job postings](https://jobs.ashbyhq.com/syndicate).)
-
-When you clone this repository, you should make your repository **private** and share it with [nhausman](https://github.com/nhausman1) on Github with an admin role. By cloning this repository, you agree to keep the MIT License intact and assign the MIT License to your repoistory as well.
-
 ## Project Description
 
 In this repository, you will create a Web3 integration to look up balances in a smart contract known as Dai. Don't worry if you haven't worked with Web3 before, we'll have plenty of examples and guidance!
